@@ -43,7 +43,7 @@ All the classes are contained within the `pharmacymanagementsystemproject` packa
 ## How to Run the Project  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Shafiya-Munawwar0036/Pharmacy-Management-System---Java-Console-Based/tree/main  
+   git clone https://github.com/Shafiya-Munawwar0036/Pharmacy-Management-System---Java-Console-Based.git
 
 ---  
 
