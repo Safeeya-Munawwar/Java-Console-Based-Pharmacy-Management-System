@@ -63,4 +63,7 @@ All the classes are contained within the `pharmacymanagementsystemproject` packa
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
- 
+
+---
+
+© 2024 Pharmacy Management System | Built with ❤️ using Java
